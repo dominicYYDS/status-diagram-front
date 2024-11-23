@@ -1,0 +1,3 @@
+<template>
+    LocationConfig
+</template>
